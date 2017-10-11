@@ -1,2 +1,2 @@
 # CandyWorld
-Islet OnlineResourPack
+IsletOnline ResourPack
